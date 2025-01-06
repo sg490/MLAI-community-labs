@@ -9,7 +9,7 @@ servers:
 
 # Paths for the API endpoints
 paths:
-  /appbwBF8gPYPqLNcE/Table%201:
+  /appZ9dc6MQo3Oiq9y/Tasks
     post:
     #   parameters:
     #       - in: query
